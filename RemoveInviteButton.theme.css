@@ -1,0 +1,14 @@
+/**
+    * @name Remove Invite Button
+    * @version 0.0.2
+    * @description Remove "Invite to Server" button from user menu.
+    * @author Hyouhyan
+    *
+    * @authorLink https://hyouhyan.com
+    *
+    * @website https://hyouhyan.com
+**/
+
+#user-context-invite-to-server{
+    display: none;
+}
